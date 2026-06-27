@@ -706,6 +706,7 @@ button{
 }
 
 .food-top{
+	min-height:auto;
     padding:20px;
 }
 
@@ -727,6 +728,7 @@ button{
 }
 
 .food-details{
+	min-height:auto;
     flex-direction:column;
     padding:40px 20px;
     gap:10px;
